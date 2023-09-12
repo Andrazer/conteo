@@ -2,5 +2,8 @@ runs/
 conteo/
 yolov8n.pt
 yolov8l.pt
+yolov8n-pose.pt
+yolov8n-seg.pt
 video.mp4
 video_contado.mp4
+test.py
