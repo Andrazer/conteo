@@ -1,3 +1,6 @@
 runs/
 conteo/
 yolov8n.pt
+yolov8l.pt
+video.mp4
+video_contado.mp4
